@@ -1,1 +1,1 @@
-# Thid repo contains objects using function method.
+# This repo contains objects using function method.
